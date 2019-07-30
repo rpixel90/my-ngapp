@@ -28,4 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Live Demo
 
-##The Sample Application is running here [Live Demo](https://www.anupajx.com/).
+## The Sample Application is running here [Live Demo](https://www.anupajx.com/).
